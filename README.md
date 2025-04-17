@@ -25,7 +25,7 @@ Preprint available on [arXiv](https://arxiv.org/abs/2504.10248)
 ## Setup
 To install the necessary dependencies, run the following commands:
 ```
-conda create --name DT_SS python=3.8
+conda create --name DT_SS python=3.12.7
 conda activate DT_SS
 pip install -r requirements.txt
 ```
