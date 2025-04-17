@@ -8,7 +8,7 @@ This repository contains the official implementation of the paper:
 
 **"Adaptive Sensor Steering Strategy Using Deep Reinforcement Learning for Dynamic Data Acquisition in Digital Twins"**  
 by *Collins O. Ogbodo, Timothy J. Rogers, Mattia Dal Borgo, and David J. Wagg*  
-Preprint available on [arXiv]([https://arxiv.org/abs/2504.10248])
+Preprint available on [arXiv](https://arxiv.org/abs/2504.10248)
 
 ---
 
