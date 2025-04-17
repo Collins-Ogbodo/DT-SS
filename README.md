@@ -14,7 +14,7 @@ Preprint available on [arXiv](https://arxiv.org/abs/2504.10248)
 
 ## 🚀 Key Features
 
-- **Digital Twin Integration** — Synchronized physical-virtual interaction with near real-time feedback.
+- **Digital Twin Integration** — Agent based adaptive digital twin.
 - **MDP-based Formulation** — Sensor movement modeled as a sequential decision process.
 - **Rainbow DQN Agent** — Uses distributional RL for risk-aware decision-making.
 - **Information-Theoretic Reward** — Maximizes determinant of the FIM for informative sensor placement.
