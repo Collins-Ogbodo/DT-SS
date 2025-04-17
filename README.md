@@ -31,11 +31,13 @@ pip install -r requirements.txt
 ```
 ---
 ## Citation
+```
 @article{ogbodo2025adaptive,
   title={Adaptive Sensor Steering Strategy Using Deep Reinforcement Learning for Dynamic Data Acquisition in Digital Twins},
   author={Ogbodo, Collins O and Rogers, Timothy J and Borgo, Mattia Dal and Wagg, David J},
   journal={arXiv preprint arXiv:2504.10248},
   year={2025}
 }
+```
 
 
