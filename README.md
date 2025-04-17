@@ -2,7 +2,7 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-![DCD overview diagram](/doc/images/Sensor-Configuration-Evolution.svg)
+![DCD overview diagram](/doc/Sensor-Configuration-Evolution.svg)
 
 This repository contains the official implementation of the paper:
 
@@ -21,6 +21,12 @@ Preprint available on [arXiv](https://arxiv.org/abs/2504.10248)
 - **Spatial Correlation-Aware** — Rewards spatially well-distributed sensor configurations.
 - **Case Studies** — Applied to a cantilever plate under damage severity and localization scenarios.
 ---
+
+## Adapting based on damage severities
+![Damage severity](/doc/Damage_Severity_Condition_2.gif)
+
+## Adapting based on damage location
+![Damage localisation](/doc/Damage_location_Condirion_2.gif)
 
 ## Setup
 To install the necessary dependencies, run the following commands:
