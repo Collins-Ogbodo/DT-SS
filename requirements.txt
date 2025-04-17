@@ -1,0 +1,16 @@
+ansys-mechanical-core==0.11.12
+ax-platform==0.4.3
+gymnasium==0.28.1
+matplotlib==3.9.2
+natsort==8.4.0
+numpy==1.26.4
+pandas==2.2.3
+pyuff==2.4.4
+scikit-learn==1.5.2
+scipy==1.14.1
+seaborn==0.13.2
+tianshou==1.1.0
+torch==2.5.1+cu124
+torchaudio==2.5.1+cu124
+torchvision==0.20.1+cu124
+wandb==0.18.7
