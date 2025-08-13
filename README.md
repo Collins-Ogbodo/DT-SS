@@ -1,4 +1,4 @@
-# Digital Twin Sensor Steering (DT-SS)
+# Digital Twin Sensor Steering (DT-SS): A probabilistic reinforcement learning base sensor adaptation strategy for structural monitoring and data acquisition in digital twins
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
