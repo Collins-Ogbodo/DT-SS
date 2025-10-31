@@ -1,7 +1,7 @@
 # Digital Twin Sensor Steering (DT-SS)
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
+[![DOI](https://zenodo.org/badge/968111859.svg)](https://doi.org/10.5281/zenodo.17495987)
 ![DCD overview diagram](/doc/Sensor-Configuration-Evolution.svg)
 
 This repository contains the official implementation of the paper:
